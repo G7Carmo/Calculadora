@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora Basica feita Em React_Native
+Calculadora  Hibrida Android/IOS feita em React-Native
